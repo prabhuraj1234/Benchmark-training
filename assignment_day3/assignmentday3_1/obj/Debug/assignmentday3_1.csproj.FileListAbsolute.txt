@@ -1,0 +1,7 @@
+D:\Benchmark\assignmentday3_1\bin\Debug\assignmentday3_1.exe.config
+D:\Benchmark\assignmentday3_1\bin\Debug\assignmentday3_1.exe
+D:\Benchmark\assignmentday3_1\bin\Debug\assignmentday3_1.pdb
+D:\Benchmark\assignmentday3_1\obj\Debug\assignmentday3_1.csproj.AssemblyReference.cache
+D:\Benchmark\assignmentday3_1\obj\Debug\assignmentday3_1.csproj.CoreCompileInputs.cache
+D:\Benchmark\assignmentday3_1\obj\Debug\assignmentday3_1.exe
+D:\Benchmark\assignmentday3_1\obj\Debug\assignmentday3_1.pdb
