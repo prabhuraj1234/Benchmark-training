@@ -1,0 +1,6 @@
+D:\Benchmark\assignmentday4_1\bin\Debug\assignmentday4_1.exe.config
+D:\Benchmark\assignmentday4_1\bin\Debug\assignmentday4_1.exe
+D:\Benchmark\assignmentday4_1\bin\Debug\assignmentday4_1.pdb
+D:\Benchmark\assignmentday4_1\obj\Debug\assignmentday4_1.csproj.CoreCompileInputs.cache
+D:\Benchmark\assignmentday4_1\obj\Debug\assignmentday4_1.exe
+D:\Benchmark\assignmentday4_1\obj\Debug\assignmentday4_1.pdb
