@@ -1,0 +1,7 @@
+D:\Benchmark\ado1\obj\Debug\ado1.csproj.AssemblyReference.cache
+D:\Benchmark\ado1\obj\Debug\ado1.csproj.CoreCompileInputs.cache
+D:\Benchmark\ado1\bin\Debug\ado1.exe.config
+D:\Benchmark\ado1\bin\Debug\ado1.exe
+D:\Benchmark\ado1\bin\Debug\ado1.pdb
+D:\Benchmark\ado1\obj\Debug\ado1.exe
+D:\Benchmark\ado1\obj\Debug\ado1.pdb
