@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promise </title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+<script>
+
+
+
+
+
+new Promise ((resolve,reject)=>{
+
+   
+    setTimeout(() => reject("not done...."), 2000);
+}).finally (()=>alert("promise is ready")).then (result=>alert(result),
+
+    error=>alert(error));
+
+</script>
+</body>
+</html>
